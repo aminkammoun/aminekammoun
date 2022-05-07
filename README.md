@@ -2,7 +2,7 @@
 
 ---
 
-- 👋 Hi, I’m Amine-KAMMOUN, i'm a software developer with one year of experience @sastec, i worked on over 3 main projects in the robotics :[carthaclean , carthakool, tricity]. in this projects i build front to back apps, i work on deploying process, versions controle.
+- 👋 Hi, I’m Amine-KAMMOUN, i'm a software developer with one year of experience @sastec, i worked on over 3 main projects in the robotics :[carthaclean , carthakool, tricity]. in this projects i build front to back apps, i work on deploying process, versions controle, tasks automation and server configurations.
 - 🔭 I’m currently working on Vue js projects
 - 🌱 I’m currently MEVN Stack develloper as well as MERN stack too
 - you can check my professional github account : https://github.com/AmineKamrobotica
